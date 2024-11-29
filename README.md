@@ -45,7 +45,7 @@ O arquivo index.php contém os testes para verificar o funcionamento das classes
    
 ![Captura de tela 2024-11-28 190836](https://github.com/user-attachments/assets/8bd72927-b3a9-4441-9d33-1776f681a219)
 
-7. Em seu navegador digite na barra de pesquisa:localhost/ProjetoPlayer/index.php
+7. Em seu navegador digite na barra de pesquisa: `localhost/ProjetoPlayer/index.php`
 
 
 ## Autores
