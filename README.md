@@ -31,7 +31,7 @@ O arquivo index.php contém os testes para verificar o funcionamento das classes
 ## Instalação e execução
 1. *Instalação do xampp (ambiente virtual):* [Xampp](https://www.apachefriends.org/pt_br/index.html)
    
-2. *Clone este repositório:* gh repo clone joanasouzaa/projeto_player
+2. *Clone este repositório:* gh repo clone samira888w/projeto_player
    
 3. Após instalar o Xampp, a pasta insralação (conforme imagem abaixo)
 ![Captura de tela 2024-11-28 191747](https://github.com/user-attachments/assets/b81b06b2-beff-4cd7-aab8-27bcc0367d0d)
@@ -45,7 +45,7 @@ O arquivo index.php contém os testes para verificar o funcionamento das classes
    
 ![Captura de tela 2024-11-28 190836](https://github.com/user-attachments/assets/8bd72927-b3a9-4441-9d33-1776f681a219)
 
-7. Em seu navegador digite na barra de pesquisa:localhost/index.php
+7. Em seu navegador digite na barra de pesquisa:localhost/ProjetoPlayer/index.php
 
 
 ## Autores
