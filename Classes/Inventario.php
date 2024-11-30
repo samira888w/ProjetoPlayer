@@ -48,7 +48,6 @@ class Inventario
         foreach ($this->itens as $indice => $valor) {
             if ($valor === $item) {
                 unset($this->itens[$indice]);
-                // $this->itens = array_values($this->itens);
                 echo "Item {$item->getName()} removido do inventário!<br>";
                 return true;
             }
